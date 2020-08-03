@@ -1,7 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Praxent.Core</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>John Brunnings</Authors>
+    <Company>Praxent, LLC</Company>
+    <RepositoryUrl>https://github.com/praxent/dotnetcore-praxent-core</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
